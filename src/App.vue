@@ -1,7 +1,7 @@
 <template>
   <div>
     <header class="header">
-      <div class="logo">Pakistan Mart</div>
+      <div class="logo">Family Mart</div>
 
       <nav class="nav">
         <router-link to="/">Home</router-link>

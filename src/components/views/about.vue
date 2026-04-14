@@ -10,14 +10,14 @@
       <!-- LEFT CONTENT -->
       <div class="left">
 
-        <h1>About Pakistan Mart</h1>
+        <h1>About family Mart</h1>
 
         <p class="tagline">
           Modern Grocery Experience for Every Home in Pakistan
         </p>
 
         <p>
-          Pakistan Mart is a next-generation grocery platform designed to bring
+          family Mart is a next-generation grocery platform designed to bring
           freshness, affordability, and convenience directly to your doorstep.
           We combine technology with trust to redefine daily shopping.
         </p>
